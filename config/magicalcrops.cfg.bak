@@ -91,7 +91,7 @@ general {
     I:"Change to disable or enabled second seed drop, 1 = Enabled (Default), 0 = Disabled"=0
     I:"Disable Crafting for Magic Fertiliser, 0 = Enabled(Default), 1 = disabled"=0
     I:"Disable Crafting for Magical Items (Natures Gift, Dark Star & Obsidian Skull), 0 = Enabled(Default), 1 = disabled"=0
-    I:"Disable ability to get Essence seeds, 0 = Enabled(Default), 1 = disabled"=1
+    I:"Disable ability to get Essence seeds, 0 = Enabled(Default), 1 = disabled"=0
     I:"Disable ability to get crop seeds from tall grass, 0 = Enabled(Default), 1 = disabled"=0
     I:"Disable/Enable Generation of Essence ore in the Nether, 0 = Enabled(Default), 1 = disabled"=0
     I:"Disable/Enable Generation of Essence ore in the overworld, 0 = Enabled(Default), 1 = disabled"=1
@@ -99,7 +99,7 @@ general {
     I:"Edit the amount of seeds you get when crafting, Default 1, Max 64"=8
     I:"Edit the number to change the Y Cord that essence ore starts generating in the overworld, default = 45"=45
     I:"Enable old magic fertilizer recipe (HEPH!), 0 = Enabled, 1 = disabled(Default)"=1
-    I:"Enable or disable chance of getting Magic Essence from Magical Crops, 1 = Enabled (Default), 0 = Disabled"=0
+    I:"Enable or disable chance of getting Magic Essence from Magical Crops, 1 = Enabled (Default), 0 = Disabled"=1
     I:"Enable or disable particle effects on crops, 1 = Enabled (Default), 0 = Disabled"=1
     I:"Ender Essence Craft Output; EndStone, default 8, Max 64, Min 1"=2
     I:"Ender Essence Craft Output; Ender Frame, default 1, Max 64, Min 1"=1

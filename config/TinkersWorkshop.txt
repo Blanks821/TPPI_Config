@@ -159,6 +159,17 @@ dimblacklist {
 
 
 ####################
+# drawbridge
+####################
+
+drawbridge {
+    # Add block or item IDs that should not be placed from the drawbridge
+    I:"Drawbridge Blacklist" <
+     >
+}
+
+
+####################
 # environment checks
 ####################
 
